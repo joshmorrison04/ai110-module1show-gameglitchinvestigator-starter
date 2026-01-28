@@ -25,4 +25,5 @@ It wrote the code, ran away, and now the game is unplayable.
 
 ## 📸 Demo
 
-[Insert screenshot of your fixed, winning game here]
+Run the game: streamlit run app.py
+![Game Demo](demo.png)
