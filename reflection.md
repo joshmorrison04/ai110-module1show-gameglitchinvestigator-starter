@@ -6,7 +6,22 @@ Answer each question in 3 to 5 sentences. Be specific and honest about what actu
 
 - What did the game look like the first time you ran it?
 - List at least two concrete bugs you noticed at the start  
-  (for example: "the secret number kept changing" or "the hints were backwards").
+
+Glitch #1: 
+  - **Expected**: Accurate feedback is given after you submit a number
+  - **Actual**: Feedback is not accurate and is actually flipped. (based on the secret value) 
+
+Glitch #2: 
+  - **Expected**: You can start a new game by pressing "New Game" button after winning. 
+  - **Actual**: After winning and pressing new game, guesses submitted don't work (dont recieve feedback on submission, and don't show up in history)
+
+Glich #3: 
+  - **Expected**: User can select different difficulties where the range of numbers widens.
+  - **Actual**: Hard difficutly has and returns a smaller range than normal. 
+
+Glich #4: 
+  - **Expected**: When you press enter on keypad it submits your guess
+  - **Actual**: Guess is not submitted when you press enter on keypad. 
 
 ---
 
